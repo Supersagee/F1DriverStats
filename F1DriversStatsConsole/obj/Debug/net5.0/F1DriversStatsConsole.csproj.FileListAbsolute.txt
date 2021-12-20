@@ -1,0 +1,16 @@
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\bin\Debug\net5.0\F1DriversStatsConsole.exe
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\bin\Debug\net5.0\F1DriversStatsConsole.deps.json
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\bin\Debug\net5.0\F1DriversStatsConsole.runtimeconfig.json
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\bin\Debug\net5.0\F1DriversStatsConsole.runtimeconfig.dev.json
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\bin\Debug\net5.0\F1DriversStatsConsole.dll
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\bin\Debug\net5.0\ref\F1DriversStatsConsole.dll
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\bin\Debug\net5.0\F1DriversStatsConsole.pdb
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\obj\Debug\net5.0\F1DriversStatsConsole.csproj.AssemblyReference.cache
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\obj\Debug\net5.0\F1DriversStatsConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\obj\Debug\net5.0\F1DriversStatsConsole.AssemblyInfoInputs.cache
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\obj\Debug\net5.0\F1DriversStatsConsole.AssemblyInfo.cs
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\obj\Debug\net5.0\F1DriversStatsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\obj\Debug\net5.0\F1DriversStatsConsole.dll
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\obj\Debug\net5.0\ref\F1DriversStatsConsole.dll
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\obj\Debug\net5.0\F1DriversStatsConsole.pdb
+C:\Users\Billy\source\repos\F1DriversStats\F1DriversStatsConsole\obj\Debug\net5.0\F1DriversStatsConsole.genruntimeconfig.cache
